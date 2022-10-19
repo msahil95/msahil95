@@ -8,7 +8,8 @@
 - 💞️ I’m looking to collaborate on ML projects  
 - 📫 How to reach me msahil9511@gmail.com
 
-Languages and tools
+@Languages and tools
+
 python selenium pytorch pandas scikit_learn seaborn tensorflow html5 opencv git
 
 
