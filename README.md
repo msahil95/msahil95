@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @msahil
 - 👀 I’m interested in Machine learning 
-- 🌱 I’m currently learning Data Pipnline 
+- 🌱 I’m currently learning Data Pipeline 
 - 💞️ I’m looking to collaborate on ML projects  
 - 📫 How to reach me msahil9511@gmail.com
 
