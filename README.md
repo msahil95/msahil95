@@ -10,6 +10,8 @@
 
 @Languages and tools
 
+https://www.python.org/ 
+
 python selenium pytorch pandas scikit_learn seaborn tensorflow html5 opencv git
 
 
